@@ -1,0 +1,237 @@
+[
+  {
+    "title": "Learn Python: The Complete Python Programming Course",
+    "intro": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
+    "ratings": "4.3",
+    "total_vote": "3642",
+    "enrolled": "22292",
+    "created_by": "Avinash Jain,The Codex",
+    "last_updated": "8/2015",
+    "language": "English",
+    "cart_details": {
+      "cost": "84.99",
+      "after_discount": "16.99",
+      "discount_percentage": "80",
+      "hours_left": "20"
+    },
+    "course_overview": [
+      "Create their own Python Programs",
+      "Become an experienced Python Programmer",
+      "Parse the Web and Create their own Games"
+    ],
+    "course_image": "https://www.technotification.com/wp-content/uploads/2017/05/Python-programming-for-hackers-compressed.jpg",
+    "course_content": [
+      "Introduction",
+      "Flow Control",
+      "Function",
+      "Data Types",
+      "File Handling",
+      "Object & Class",
+      "Advanced Tutorials",
+      "Date and Time",
+      "About Python Programming",
+      "Why learn Python ?",
+      "How to learn Python?",
+      "Python Resources"
+    ],
+    "why_learn_it": [
+      "Why Learn Python? Python is easy to learn. Its syntax is easy and code is very readable. Python has a lot of applications. It's used for developing web applications, data science, rapid application development, and so on. Python allows you to write programs in fewer lines of code than most of the programming languages. The popularity of Python is growing rapidly. Now it's one of the most popular programming languages."
+    ]
+  },
+
+  {
+    "title": "Learning Python for Data Analysis and Visualization",
+    "intro": "Learn python and how to use it to analyze,visualize and present data. Includes tons of sample code and hours of video!",
+    "ratings": "4.4",
+    "total_vote": "18332",
+    "enrolled": "192594",
+    "created_by": "Jose Portilla",
+    "last_updated": "4/2016",
+    "language": "English",
+    "cart_details": {
+      "cost": "84.99",
+      "after_discount": "16.99",
+      "discount_percentage": "80",
+      "hours_left": "20"
+    },
+    "course_overview": [
+      "Have an intermediate skill level of Python programming.",
+      "Use the Jupyter Notebook Environment.",
+      "Use the numpy library to create and manipulate arrays.",
+      "Use the pandas module with Python to create and structure data."
+    ],
+    "course_image": "https://www.codejava.net/images/articles/videos/python-data-analysis/Learning_Python_for_Data_Analysis_and_Visualization.jpg",
+    "course_content": [
+      "Introduction",
+      "exploratory and predictive statistics",
+      "basic computer programming in Python",
+      "more advanced computer program design",
+      "an introduction to algorithms",
+      "R for statistical analysis",
+      "practical machine learning techniques",
+      "Unix and Git",
+      "data visualization best practices"
+    ],
+    "why_learn_it": [
+      "Data analysis is both a fascinating topic in itself and a tool that lets you make powerful inferences and understand the world around you. The techniques you will learn will help you accurately characterize data using models and then make inferences and decisions. If you enjoy applying math and analytical thinking to practical problems, this course is for you.There has also been a large spike in demand for data analysts, so learning analytics can be extremely advantageous from a career perspective as well. Being able to find trends in large datasets will help you know how to make sound decisions in all aspects of your life."
+    ]
+  },
+
+  {
+    "title": "The Complete 2020 Fullstack Web Developer Course",
+    "intro": "Learn HTML5, CSS3, JavaScript, Python, Wagtail CMS, PHP & MySQL from scratch!",
+    "ratings": "4.5",
+    "total_vote": "6399",
+    "enrolled": "91652",
+    "created_by": "Kalob Taulien",
+    "last_updated": "7/2020",
+    "language": "English",
+    "cart_details": {
+      "cost": "84.99",
+      "after_discount": "16.99",
+      "discount_percentage": "80",
+      "hours_left": "20"
+    },
+    "course_overview": [
+      "Updated for 2020",
+      "Learn HTML5, CSS3, Vanilla JS (ES6+), Python, Wagtail CMS, PHP and MySQL all from scratch",
+      "Learn Python from beginner to advanced",
+      "Learn JavaScript (ES6+)"
+    ],
+    "course_image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210222183454/How-to-Become-a-Full-Stack-Web-Developer-in-2021.png",
+    "course_content": [
+      "Overview",
+      "HTML",
+      "CSS",
+      "Programming with Javascript",
+      "ReactJS Development",
+      "NodeJS Development",
+      "MongoDB",
+      "Python",
+      "Version Control system",
+      "6 Mini Projects",
+      "1 Capstone Project"
+    ],
+    "why_learn_it": [
+      "As a full-stack developer, you know of multiple technologies. Whether it's about adding images to a web page or creating a database, you'd be familiar with all of them. This gives you an edge over other developers because you can make technical decisions faster and see the big picture."
+    ]
+  },
+
+  {
+    "title": "Data Science A-Z™: Real-Life Data Science Exercises Included",
+    "intro": "Learn Data Science step by step through real Analytics examples. Data Mining, Modeling, Tableau Visualization and more!",
+    "ratings": "4.6",
+    "total_vote": "36008",
+    "enrolled": "206773",
+    "created_by": "Christos A",
+    "last_updated": "7/2022",
+    "language": "English",
+    "cart_details": {
+      "cost": "84.99",
+      "after_discount": "16.99",
+      "discount_percentage": "80",
+      "hours_left": "20"
+    },
+    "course_overview": [
+      "Successfully perform all steps in a complex Data Science project",
+      "Create Basic Tableau Visualisations",
+      "Perform Data Mining in Tableau",
+      "Understand how to apply the Chi-Squared statistical test"
+    ],
+    "course_image": "https://techyworld.co.uk/wp-content/uploads/2022/02/Data-Science.jpeg",
+    "course_content": [
+      "Introduction to Data Science",
+      "Mathematical and Statistical Skills",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Coding",
+      "Applied Mathematics and Informatics",
+      "Machine Learning Algorithms",
+      "Data Warehousing",
+      "Data Mining",
+      "Data Visualization",
+      "Data Structures",
+      "Scientific Computing",
+      "Scholastic Models",
+      "Project Deployment Tools",
+      "Predictive Analytics and Segmentation ",
+      "Exploratory Data Analysis"
+    ],
+    "why_learn_it": [
+      "Students who study data science receive all the information they need to work with various kinds of data and statistical data. The program is designed so that students have in-depth knowledge of the many approaches, aptitudes, methodologies, and instruments needed to deal with corporate data. Courses provide specialized knowledge and instruction in statistics, programming, algorithms, and other analytical subjects. Students receive instruction in the abilities needed to find the needed solutions and assist in making significant judgments. "
+    ]
+  },
+
+  {
+    "title": "Amazon Web Services (AWS) Certified 2022 - 4 Certifications!",
+    "intro": "Videos, labs & practice exams - AWS Certified (Solutions Architect, Developer, SysOps Administrator, Cloud Practitioner)",
+    "ratings": "4.6",
+    "total_vote": "21008",
+    "enrolled": "138773",
+    "created_by": "Backspace Academy",
+    "last_updated": "7/2021",
+    "language": "English",
+    "cart_details": {
+      "cost": "84.99",
+      "after_discount": "16.99",
+      "discount_percentage": "80",
+      "hours_left": "20"
+    },
+    "course_overview": [
+      "You will be fully prepared for the AWS Certified Solutions Architect Associate, AWS Certified Developer Associate and AWS Certified SysOps Administrator Associate exams."
+    ],
+    "course_image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_aws.jpg",
+    "course_content": [
+      "compute",
+      "storage",
+      "databases",
+      "analytics",
+      "networking",
+      "mobile",
+      "developer tools",
+      "management tools",
+      "IoT",
+      "security",
+      "enterprise applications"
+    ],
+    "why_learn_it": [
+      "Amazon Web Services (AWS) is on a mission to accelerate the digital transformation of education in partnership with the full education community, including learners, educators, administrators, and researchers.Over 14,000 education institutions of all sizes—from primary and secondary schools through higher education—use AWS to provide flexible, affordable technology solutions that support their core mission and deliver on their most strategic institutional priorities."
+    ]
+  },
+
+  {
+    "title": "Microsoft Excel 2013 Course Beginners/ Intermediate Training",
+    "intro": "Learn to Master Microsoft Excel In Easy To Follow Step-By-Step Training Course. Comes With Extensive Working Files",
+    "ratings": "4.5",
+    "total_vote": "1731",
+    "enrolled": "34327",
+    "created_by": "infinite skill",
+    "last_updated": "7/2017",
+    "language": "English",
+    "cart_details": {
+      "cost": "84.99",
+      "after_discount": "16.99",
+      "discount_percentage": "80",
+      "hours_left": "20"
+    },
+    "course_overview": [
+      "Learn Microsoft Excel 2010 from a professional trainer from your own desk.",
+      "106 lectures (7.5 hours of content) teaching you from the basic to the advanced of this powerful program",
+      "Suitable for beginners to advanced users. ideal for users who learn faster when shown.",
+      "Visual training method, offering users increased retention and accelerated learning."
+    ],
+    "course_image": "https://justcredible.com/wp-content/uploads/2019/03/Microsoft-Excel-to-Better-Your-Personal-Life.jpg",
+    "course_content": [
+      "Enter various types of data into a worksheet.",
+      "Work with formulas and functions.",
+      "Create and modify a pie chart.",
+      "Copy and paste data from another Excel workbook.",
+      "Format cells and ranges.",
+      "Create named ranges and use them in formulas.",
+      "Customize printouts."
+    ],
+    "why_learn_it": [
+      "Excel is not just for making tables. Organize data in an easy-to-navigate way. Do basic and complex mathematical functions so you don't have to. Turn piles of data into helpful graphics and charts. Analyze data and make forecasting predictions."
+    ]
+  }
+]
