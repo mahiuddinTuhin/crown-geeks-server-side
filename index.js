@@ -8,7 +8,11 @@ const courses = require("./data/courses.json");
 app.get("/", (req, res) => {
   res.send("courses api running");
 });
-
+//need to add some cmnt
+//need to add some cmnt
+//need to add some cmnt
+//need to add some cmnt
+//need to add some cmnt
 app.get("/courses", (req, res) => {
   res.send(courses);
 });
